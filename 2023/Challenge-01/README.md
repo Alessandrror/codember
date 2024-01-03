@@ -14,12 +14,12 @@ The result will be a text string with the word and the number of times it appear
 
 The words are sorted by their first appearance in the message!
 
-## More Examples:
+### More Examples:
 
 `keys house HOUSE house keys` -> `keys2house3`
 `cup te a cup` -> `cup2te1a1`
 `houses house housess` -> `houses1house1housess1`
 
-## How to Solve It
+### How to Solve It
 
-Solve the message you will find in this file: [Message 1](https://codember.dev/data/message_01.txt)
+Solve the message you will find in this file: [File 1](https://codember.dev/data/message_01.txt)
