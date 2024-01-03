@@ -1,0 +1,31 @@
+{
+  "name": "codember",
+  "version": "1.0.0",
+  "description": "This repository was made to share my solutions to the codember 2023 challenges.",
+  "type": "module",
+  "scripts": {
+    "challenge01js": "node 2023/Challenge-01/index.js",
+    "challenge01ts": "npx ts-node --esm 2023/Challenge-01/index.ts",
+    "challenge02js": "node 2023/Challenge-02/index.js",
+    "challenge02ts": "npx ts-node --esm 2023/Challenge-02/index.ts",
+    "challenge03js": "node 2023/Challenge-03/index.js",
+    "challenge03ts": "npx ts-node --esm 2023/Challenge-03/index.ts"
+  },
+  "keywords": [
+    "Codember",
+    "midudev",
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "PHP",
+    "C#",
+    "Rust"
+  ],
+  "author": "Alessandro Rivas",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
